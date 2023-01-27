@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a 10+ years experienced iOS engineer. I hold a BSc in Computer Science and an MSc in Mobile Software. I love my work, and I do my best to reflect that passion on the quality of my code.
+I am a 10+ years experienced iOS engineer.\ I love my work, and I do my best to reflect that passion on the quality of my code.
 
 I'm a high-skilled developer with excellent UI skills and deep knowledge of iOS APIs.
 
