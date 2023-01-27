@@ -6,17 +6,17 @@ I am a 10+ years experienced iOS engineer. I hold a BSc in Computer Science and 
 
 I'm a high-skilled developer with excellent UI skills and deep knowledge of iOS APIs.
 
-✅ Swift and Objective-C
-✅ iPhone, iPad, and Apple Watch development
-✅ Clean software architectures: MVC, MVP, MVVM, VIPER
-✅ Reactive programming (RxSwift and Combine)
-✅ Third-party dependencies (Cocoapods, Carthage, and SPM)
-✅ Good practices in my day-to-day (GitFlow, Continuous Integration, Continuous Delivery, Testing...)
-✅ Databases: Core Data, Realm, SQLite, Firebase
-✅ High UI skills, great design adaptations, and flawless, smooth animations
-✅ Push Notifications
-✅ Social Networks integration: Facebook, Twitter, Instagram
-✅ Analytics: Firebase, Crashlytics, Google Analytics, AppsFlyer, Amplitude...
+✅ Swift and Objective-C\
+✅ iPhone, iPad, and Apple Watch development\
+✅ Clean software architectures: MVC, MVP, MVVM, VIPER\
+✅ Reactive programming (RxSwift and Combine)\
+✅ Third-party dependencies (Cocoapods, Carthage, and SPM)\
+✅ Good practices in my day-to-day (GitFlow, Continuous Integration, Continuous Delivery, Testing...)\
+✅ Databases: Core Data, Realm, SQLite, Firebase\
+✅ High UI skills, great design adaptations, and flawless, smooth animations\
+✅ Push Notifications\
+✅ Social Networks integration: Facebook, Twitter, Instagram\
+✅ Analytics: Firebase, Crashlytics, Google Analytics, AppsFlyer, Amplitude...\
 
 Fast communication, kindness, and meeting deadlines are my soft skills.
 
@@ -24,9 +24,6 @@ Client satisfaction is my main goal. Don't hesitate to contact me if you want th
 
 - 📫  You can reach me directly at fullstack.work25@gmail.com
 - 💬  Ask me anything about Swift / SwiftUI / Objective-C / Android / Kotlin stack, i'll be glat to help if i can
-
-![Milos's GitHub stats](https://github-readme-stats.vercel.app/api?username=FsDev25&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&hide=stars&card_width=270)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FsDev25&layout=compact&langs_count=8&hide_title=true&hide_border=true&card_width=270)](https://github.com/FsDev25)
 
 <!--
 <h2>🛠 My Toolkit</h2>
