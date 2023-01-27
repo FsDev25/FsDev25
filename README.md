@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-I am a 10+ years experienced iOS engineer.\ I love my work, and I do my best to reflect that passion on the quality of my code.
-
+I am a 10+ years experienced iOS engineer. 
+I love my work, and I do my best to reflect that passion on the quality of my code.
 I'm a high-skilled developer with excellent UI skills and deep knowledge of iOS APIs.
 
 ✅ Swift and Objective-C\
